@@ -1,0 +1,9 @@
+fx_version 'cerulean'
+game 'gta5'
+
+description 'Removes NPCs from a specific location'
+version '1.0.0'
+
+client_scripts {
+    'client.lua'
+}
